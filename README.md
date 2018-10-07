@@ -12,4 +12,4 @@
 > * [Glype which widely use in GetNewIP.com](http://getnewip.com/)
 ![GetNewIP.com](http://getnewip.com/static/getnewip.com/logos/getnewip-logo.png)
 
-GetNewIP.com use Glype 1.4.15 to custom they proxy service.
+GetNewIP.com use Glype 1.4.15 to custom their proxy service.
