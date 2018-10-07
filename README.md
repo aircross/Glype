@@ -10,6 +10,7 @@
 > * So, I share this script again.
 > * 1.2、1.4.2、1.4.13、1.4.15 will be shared here.
 > * [Glype which widely use in GetNewIP.com](http://getnewip.com/)
-![GetNewIP.com](http://getnewip.com/static/getnewip.com/logos/getnewip-logo.png)
+
+[![GetNewIP.com](http://getnewip.com/static/getnewip.com/logos/getnewip-logo.png "GetNewIP.com")](http://getnewip.com)
 
 GetNewIP.com use Glype 1.4.15 to custom their proxy service.
