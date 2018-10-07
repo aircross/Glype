@@ -1,7 +1,6 @@
 # Glype
 # This is a backup of Glype 1.4.15.
 # provide by ![GetNewIP.com](http://getnewip.com/static/getnewip.com/logos/getnewip-logo.png)
-[![GetNewIP.com](http://getnewip.com/static/getnewip.com/logos/getnewip-logo.png "GetNewIP.com")](http://getnewip.com)
 ------
 > * Glype is a web base php proxy script.
 > * This is a open source script.
